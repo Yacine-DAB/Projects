@@ -1,0 +1,34 @@
+{
+   "Lamine": {
+      "Math": 12,
+      "Science": 10,
+      "English": 7.5,
+      "History": 4,
+      "Arabic": 1,
+      "French": 11
+   },
+   "Bilal": {
+      "Math": 17,
+      "Science": 12,
+      "English": 17,
+      "History": 15,
+      "Arabic": 18,
+      "French": 16
+   },
+   "Mahdi": {
+      "Math": 13,
+      "Science": 13,
+      "English": 12,
+      "History": 19,
+      "Arabic": 16,
+      "French": 13
+   },
+   "Ilyes": {
+      "Math": 20,
+      "Science": 19,
+      "English": 19,
+      "History": 18,
+      "Arabic": 16,
+      "French": 10
+   }
+}

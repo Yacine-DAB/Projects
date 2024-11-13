@@ -1,0 +1,33 @@
+[
+     {
+       "question": "from Where Lamine has baught the banana",
+       "options": ["tahanutt n mahdi", "seg exam", "seg imis", "un zigou"],
+       "answer": "tahanutt n mahdi",
+       "difficulty": "Easy",
+       "category": "Tmesxir n Lamine"
+
+     },
+     {
+       "question": "How lamine thinks",
+       "options": ["like Women", "like elder men", "like child", "taughly"],
+       "answer": "like Women",
+       "difficulty": "Medium",
+       "category": "TTexmam n Lamine"
+
+     },
+     {
+      "question": "Who is Elon Musk?",
+      "options": ["PDG tesla", "PDG APPLE", "Microsoft", "Amazon"],
+      "answer": "PDG tesla",
+      "difficulty": "Easy",
+      "category": "General Culture"
+     },
+     {
+      "question": "Who is ZEDKira?",
+      "options":["Company","Awid AR da","Awid imik A lamine","sedud lyas"],
+      "answer":"Company",
+      "difficulty": "difficult",
+      "category": "Business"
+     }
+]
+   
